@@ -2,9 +2,40 @@
 
 FluxUI is a high-level programming language designed for creating user interfaces with ease. It combines traditional programming constructs with a rich set of UI widgets and event handling capabilities.
 
+## 📦 Download Packages
+
+### **🖥️ Windows Package**
+- **FluxUI_MasterWindows.zip** (~137MB)
+- Complete installation with executables
+- [Download from repository](packages/FluxUI_MasterWindows.zip)
+
+### **🐧 Linux Package**  
+- **FluxUI_MasterLinux.zip** (~180KB)
+- Source code with installation scripts
+- [Download from repository](packages/FluxUI_MasterLinux.zip)
+
+### **🚀 Quick Install**
+1. Download platform-specific package
+2. Extract and run installer
+3. Test with `fluxui --ver`
+
 ## Quick Start
 
 ### Installation
+
+#### **Method 1: Package Installation (Recommended)**
+
+**Windows:**
+1. Download `FluxUI_MasterWindows.zip`
+2. Extract and run `FluxUI_Installer.exe` as administrator
+3. Follow installation steps
+
+**Linux:**
+1. Download `FluxUI_MasterLinux.zip`
+2. Extract: `tar -xzf FluxUI_MasterLinux.zip`
+3. Run: `sudo ./install_global.sh`
+
+#### **Method 2: Manual Installation**
 
 1. **Install Dependencies**
    ```bash
@@ -187,7 +218,19 @@ LINE_PLOT sales_plot {
 
 ## License
 
-This project is open source. Check the license file for details.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Support
+
+- **Issues:** Report on [GitHub Issues](https://github.com/zerogravitygamingx211-hash/FluxUI/issues)
+- **Documentation:** See complete guides in packages
+- **Community:** Join discussions on GitHub
+
+---
+
+**FluxUI v1.0.0** - Modern UI Programming Language  
+**Platform:** Windows & Linux  
+**License:** MIT License
 
 ## Support
 
