@@ -2,7 +2,29 @@
 
 FluxUI is a high-level programming language designed for creating user interfaces with ease. It combines traditional programming constructs with a rich set of UI widgets and event handling capabilities.
 
-## 📦 Download Packages
+## � Repository Structure
+
+```
+FluxUI/
+├── Scripts/                 # All Python source files
+│   ├── fluxui.py           # Main FluxUI interpreter
+│   ├── fluxui_ide.py       # FluxIDE IDE application
+│   ├── build_*.py          # Build and packaging scripts
+│   └── *.py                # Other Python modules
+├── Sh/                     # Batch and shell scripts
+│   ├── *.bat               # Windows batch files
+│   ├── *.sh                # Linux shell scripts
+│   └── README.md           # Scripts documentation
+├── FluxIDE_Release/        # FluxIDE standalone executable
+│   ├── FluxIDE.zip         # Compressed IDE (29MB)
+│   └── README.md           # IDE installation guide
+├── packages/               # Platform-specific packages
+│   ├── FluxUI_MasterWindows.zip
+│   └── FluxUI_MasterLinux.zip
+└── *.md                    # Documentation files
+```
+
+## �📦 Download Packages
 
 ### **🖥️ Windows Package**
 - **FluxUI_MasterWindows.zip** (~137MB)
