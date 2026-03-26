@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FluxUI IDE
+Comment=FluxUI Integrated Development Environment
+Exec=fluxui-ide
+Icon=fluxui
+Terminal=false
+Categories=Development;IDE;
+Keywords=programming;language;ui;development;
+StartupWMClass=FluxUI_IDE
