@@ -1,0 +1,26 @@
+FluxUI Icon Information
+========================
+
+For Windows users, the following icon sizes are recommended:
+- 16x16 - Taskbar and small icons
+- 32x32 - Desktop and file explorer
+- 48x48 - Control panel
+- 64x64 - High DPI displays
+- 128x128 - Large icons
+- 256x256 - Extra large icons
+
+The icon features:
+- Blue rounded rectangle background (#2980b9)
+- White lightning bolt symbol
+- "F" letter for FluxUI
+- Modern, clean design
+
+To create proper ICO files:
+1. Use an image editor (GIMP, Photoshop)
+2. Create the design at 256x256
+3. Export as ICO with multiple sizes
+4. Save as fluxui.ico
+
+Or use online converters:
+- Convert fluxui.svg to ICO
+- Use icon generator websites

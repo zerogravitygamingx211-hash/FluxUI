@@ -1,0 +1,19 @@
+{
+  "name": "FluxUI",
+  "version": "Beta 1.0",
+  "description": "Modern UI Programming Language",
+  "icons": {
+    "svg": "fluxui.svg",
+    "desktop": "fluxui-ide.desktop",
+    "ascii": "fluxui_ascii.txt"
+  },
+  "theme": {
+    "primary": "#2980b9",
+    "secondary": "#3498db",
+    "accent": "#ffffff"
+  },
+  "file_associations": {
+    ".flux": "FluxUI Source File",
+    "icon": "fluxui.svg"
+  }
+}
