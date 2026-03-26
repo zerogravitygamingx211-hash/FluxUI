@@ -98,8 +98,8 @@ Every FluxUI program has these parts:
 ## Method 1: Simple Installer (Recommended)
 
 1. Download: https://github.com/zerogravitygamingx211-hash/FluxUI
-2. Get `FluxUI_Installer.exe` from repository
-3. Double-click to run
+2. Get `FluxUI_Installer.bat` from repository
+3. Right-click and "Run as administrator"
 4. Follow simple installation steps
 
 ## Method 2: Online Installer
