@@ -27,16 +27,30 @@ FluxUI/
 ## 🚀 Quick Downloads
 
 ### **🖥️ Download Windows**
-[![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](packages/FluxUI_MasterWindows.zip)
-*Complete FluxUI package with installer for Windows*
+[![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/zerogravitygamingx211-hash/FluxUI/archive/refs/heads/master.zip)
+*Complete FluxUI source package for Windows*
+
+**Windows Package Contents:**
+- [FluxIDE.exe](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterWindows/FluxIDE.exe) - Standalone IDE
+- [FluxIDE.zip](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterWindows/FluxIDE.zip) - Compressed IDE
+- [Installation Guide](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterWindows/README_Windows.md)
 
 ### **🐧 Download Linux** 
-[![Download Linux](https://img.shields.io/badge/Download-Linux-orange?style=for-the-badge&logo=linux)](packages/FluxUI_MasterLinux.zip)
-*Complete FluxUI package with installation scripts for Linux*
+[![Download Linux](https://img.shields.io/badge/Download-Linux-orange?style=for-the-badge&logo=linux)](https://github.com/zerogravitygamingx211-hash/FluxUI/archive/refs/heads/master.zip)
+*Complete FluxUI source package for Linux*
+
+**Linux Package Contents:**
+- [FluxIDE.exe](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterLinux/FluxIDE.exe) - Standalone IDE
+- [FluxIDE.zip](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterLinux/FluxIDE.zip) - Compressed IDE
+- [Installation Guide](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/packages/FluxUI_MasterLinux/README_Linux.md)
 
 ### **💻 Download FluxIDE**
-[![Download FluxIDE](https://img.shields.io/badge/Download-FluxIDE-green?style=for-the-badge&logo=visual-studio-code)](FluxIDE_Release/FluxIDE.zip)
+[![Download FluxIDE](https://img.shields.io/badge/Download-FluxIDE-green?style=for-the-badge&logo=visual-studio-code)](https://raw.githubusercontent.com/zerogravitygamingx211-hash/FluxUI/master/FluxIDE_Release/FluxIDE.zip)
 *Standalone IDE for FluxUI development (29MB)*
+
+### **📦 Download Complete Package**
+[![Download Complete](https://img.shields.io/badge/Download-Complete_Package-purple?style=for-the-badge&logo=github)](https://github.com/zerogravitygamingx211-hash/FluxUI/archive/refs/heads/master.zip)
+*Entire repository with all packages and tools*
 
 ---
 
