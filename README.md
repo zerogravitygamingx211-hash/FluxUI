@@ -24,22 +24,23 @@ FluxUI/
 └── *.md                    # Documentation files
 ```
 
-## �📦 Download Packages
+## 🚀 Quick Downloads
 
-### **🖥️ Windows Package**
-- **FluxUI_MasterWindows.zip** (~137MB)
-- Complete installation with executables
-- [Download from repository](packages/FluxUI_MasterWindows.zip)
+### **🖥️ Download Windows**
+[![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](packages/FluxUI_MasterWindows.zip)
+*Complete FluxUI package with installer for Windows*
 
-### **🐧 Linux Package**  
-- **FluxUI_MasterLinux.zip** (~180KB)
-- Source code with installation scripts
-- [Download from repository](packages/FluxUI_MasterLinux.zip)
+### **🐧 Download Linux** 
+[![Download Linux](https://img.shields.io/badge/Download-Linux-orange?style=for-the-badge&logo=linux)](packages/FluxUI_MasterLinux.zip)
+*Complete FluxUI package with installation scripts for Linux*
 
-### **🚀 Quick Install**
-1. Download platform-specific package
-2. Extract and run installer
-3. Test with `fluxui --ver`
+### **💻 Download FluxIDE**
+[![Download FluxIDE](https://img.shields.io/badge/Download-FluxIDE-green?style=for-the-badge&logo=visual-studio-code)](FluxIDE_Release/FluxIDE.zip)
+*Standalone IDE for FluxUI development (29MB)*
+
+---
+
+## Package Details
 
 ## Quick Start
 
