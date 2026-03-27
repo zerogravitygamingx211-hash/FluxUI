@@ -279,3 +279,6 @@ For issues and questions:
 ---
 
 **FluxUI Version 1.0** - Modern UI Programming Made Simple
+This project includes portions of code derived from the open-source Visual Studio Code (Code - OSS) project, licensed under the MIT License.
+
+This project is not affiliated with or endorsed by Microsoft.
